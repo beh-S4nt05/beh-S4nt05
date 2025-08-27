@@ -6,9 +6,9 @@ Minha jornada na programação é onde minha mente encontra foco e calma, me per
 
 ### 🚀 Sobre Mim:
 *   **Interesses:** Música, Programação, Robótica e Games.
-*   **Aprendizado Contínuo:** Eng. de Computação, Eletrônica, Música, Japonês e Inglês.
-*   **Foco Técnico:** JavaScript, TypeScript, Node.js.
-*   **Filosofia:** "Eu gosto de programar e desenvolver sistemas, websites, covers, jogos entre outras coisas. Mas é na programação que minha mente se acalma e se concentra."
+*   **Aprendizado Contínuo:** Eng. de Computação, Eletrônica, Música, Inglês e Japonês.
+*   **Foco Técnico:** FullStack.
+*   **Vontade:** "Eu gosto de programar e desenvolver sistemas, websites, covers, jogos entre outras coisas. Mas é na programação que minha mente se acalma e se concentra."
 
 ### 💻 Minhas Skills:
 
