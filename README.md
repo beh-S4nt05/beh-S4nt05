@@ -13,20 +13,13 @@ Minha jornada na programação é onde minha mente encontra foco e calma, me per
 
 <div align="center">
   <a href="https://github.com/beh-S4nt05">
-    <picture>
-      <source srcset="https://github-readme-stats.vercel.app/api?username=beh-S4nt05&show_icons=true&theme=dark&hide_border=true" media="(prefers-color-scheme: dark)" />
-      <source srcset="https://github-readme-stats.vercel.app/api?username=beh-S4nt05&show_icons=true&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-      <img src="https://github-readme-stats.vercel.app/api?username=beh-S4nt05&show_icons=true&hide_border=true" alt="GitHub Stats" style="width: 48%; height: auto;" />
-    </picture>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beh-S4nt05&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
   </a>
   <a href="https://github.com/beh-S4nt05">
-    <picture>
-      <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=beh-S4nt05&layout=compact&theme=dark&hide_border=true" media="(prefers-color-scheme: dark)" />
-      <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=beh-S4nt05&layout=compact&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beh-S4nt05&layout=compact&hide_border=true" alt="Top Languages" style="width: 48%; height: auto;" />
-    </picture>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beh-S4nt05&layout=compact&langs_count=7&theme=radical&hide_border=true&bg_color=0D1117" />
   </a>
 </div>
+
 
 #### Linguagens e Conhecimentos:
 <div align="center">
