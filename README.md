@@ -33,7 +33,3 @@ Sou um Desenvolvedor Full Stack apaixonado por programação e compartilhar conh
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
-
-<div align="center">
-  <p>Feito com ❤️, 🛠️ e <img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" />.</p>
-</div>
