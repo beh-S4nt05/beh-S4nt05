@@ -3,17 +3,20 @@
 Sou um Desenvolvedor Full Stack apaixonado por programação e compartilhar conhecimento. <br>
 Minha jornada na programação é onde minha mente encontra foco e calma, me permitindo desenvolver sistemas, websites e vários outros projetos para necessidades pontuais do dia a dia.
 
-### 🚀 Sobre Mim:
+### 🚀 Sobre Mim
 - **Interesses:** Música, Programação, Robótica e Games.
 - **Aprendizado Contínuo:** Eng. de Computação, Eletrônica, Música, Inglês e Japonês.
 - **Foco Técnico:** FullStack.
 - **Vontade:** "Eu gosto de programar e desenvolver sistemas, websites, covers, jogos entre outras coisas. Mas é na programação que minha mente se acalma e se concentra."
 
 ### 💻 Status do GitHub
-[![beh-S4nt05's github stats](https://github-readme-stats.vercel.app/api?username=beh-S4nt05&show_icons=true&theme=dracula)](https://github.com/beh-S4nt05)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beh-S4nt05&layout=compact&theme=dracula)](https://github.com/beh-S4nt05)
+<div align="center">
+  <img height="180" src="https://github-profile-trophy.vercel.app/?username=beh-S4nt05&theme=dracula&no-frame=true&no-bg=true" />
+  <img height="180" src="https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=beh-S4nt05&layout=compact&theme=dracula" />
+</div>
 
-#### Linguagens e Conhecimentos:
+
+#### Linguagens e Conhecimentos
 <div align="center">
   <img alt="typescript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
   <img alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
@@ -29,7 +32,7 @@ Minha jornada na programação é onde minha mente encontra foco e calma, me per
   <img alt="c" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
 </div>
 
-### 🔗 Conecte-se Comigo:
+### 🔗 Conecte-se Comigo
 <div align="center">
   <a href="https://www.instagram.com/breno_50tn45/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.linkedin.com/in/breno-s-39a58a142/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
