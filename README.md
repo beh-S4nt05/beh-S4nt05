@@ -9,19 +9,9 @@ Minha jornada na programação é onde minha mente encontra foco e calma, me per
 - **Foco Técnico:** FullStack.
 - **Vontade:** "Eu gosto de programar e desenvolver sistemas, websites, covers, jogos entre outras coisas. Mas é na programação que minha mente se acalma e se concentra."
 
-### 💻 Minhas Skills:
-
-<div align="center">
-  <!-- Stats Card -->
-  <a href="https://github.com/beh-S4nt05">
-    <img src="https://stats.ainayanda.de/api?username=beh-S4nt05&theme=dark&hide_border=true&layout=compact" alt="GitHub Stats" style="width: 48%; height: auto;" />
-  </a>
-  <!-- Top Languages -->
-  <a href="https://github.com/beh-S4nt05">
-    <img src="https://stats.ainayanda.de/api/top-langs/?username=beh-S4nt05&layout=compact&theme=dark&hide_border=true" alt="Top Languages" style="width: 48%; height: auto;" />
-  </a>
-</div>
-
+### 💻 Status do GitHub
+[![beh-S4nt05's github stats](https://github-readme-stats.vercel.app/api?username=beh-S4nt05&show_icons=true&theme=dracula)](https://github.com/beh-S4nt05)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beh-S4nt05&layout=compact&theme=dracula)](https://github.com/beh-S4nt05)
 
 #### Linguagens e Conhecimentos:
 <div align="center">
