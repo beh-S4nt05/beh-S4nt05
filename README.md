@@ -12,11 +12,13 @@ Minha jornada na programação é onde minha mente encontra foco e calma, me per
 ### 💻 Minhas Skills:
 
 <div align="center">
+  <!-- Stats Card -->
   <a href="https://github.com/beh-S4nt05">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beh-S4nt05&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+    <img src="https://stats.ainayanda.de/api?username=beh-S4nt05&theme=dark&hide_border=true&layout=compact" alt="GitHub Stats" style="width: 48%; height: auto;" />
   </a>
+  <!-- Top Languages -->
   <a href="https://github.com/beh-S4nt05">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beh-S4nt05&layout=compact&langs_count=7&theme=radical&hide_border=true&bg_color=0D1117" />
+    <img src="https://stats.ainayanda.de/api/top-langs/?username=beh-S4nt05&layout=compact&theme=dark&hide_border=true" alt="Top Languages" style="width: 48%; height: auto;" />
   </a>
 </div>
 
