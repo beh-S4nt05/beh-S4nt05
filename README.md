@@ -1,35 +1,130 @@
-<h2 align="center">👋 Olá, eu sou Breno Santos!</h2>
-
-Sou um Desenvolvedor Full Stack apaixonado por programação e compartilhar conhecimento.
-
-### 🚀 Status GitHub
 <div align="center">
-  <a href="https://github.com/beh-S4nt05">
-    <img height="180" src="https://via.placeholder.com/420x240/0d1117/ffffff?text=%F0%9F%9A%80+beh-S4nt05+%7C+Fullstack+Dev&font=roboto" style="border-radius: 10px;" />
-  </a>
-  <a href="https://github.com/beh-S4nt05">
-    <img height="180" src="https://via.placeholder.com/420x240/161b22/ffffff?text=Top+Languages%0ATypeScript+%7C+JavaScript+%7C+Python+%7C+Node.js&font=roboto" style="border-radius: 10px;" />
-  </a>
+
+<!-- Banner animado -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Breno%20Santos&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Engenheiro%20de%20Computação%20·%20Automação%20·%20Dev&descAlignY=58&descSize=18&descColor=8b949e"/>
+
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Estudante+de+Eng.+de+Computação+%7C+FMM;Automação+de+Processos+%26+Análise+de+Dados;Web+Development+%7C+Python+%7C+Power+BI;Freelancer+PJ+%7C+Manaus%2C+AM+🌿)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/beh-S4nt05)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beh-S4nt05)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+![Visitors](https://komarev.com/ghpvc/?username=beh-S4nt05&color=58a6ff&style=for-the-badge&label=VISITAS)
+
 </div>
 
-### 💻 Skills
+---
+
+## 👨‍💻 Sobre mim
+
+```python
+class BrenoSantos:
+    nome       = "Breno Santos"
+    localizacao = "Manaus, AM 🌿"
+    formacao   = "Engenharia de Computação — FMM (4º semestre)"
+    foco       = ["Automação de Processos", "Análise de Dados", "Desenvolvimento Web"]
+    stack      = ["Python", "VBA", "Power BI", "JavaScript", "HTML/CSS", "SQL"]
+    experiencia = [
+        "PCP Intern @ Angstrom Electric — Python · Pandas · OpenPyXL · Power BI",
+        "Suporte de TI & Sistemas Industriais",
+        "Freelancer PJ — Soluções sob demanda",
+    ]
+    atualmente = "Automatizando tudo que pode ser automatizado 🚀"
+```
+
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+
+**Linguagens**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Dados & Automação**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 </div>
 
-### 🔗 Conecte-se Comigo
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <a href="https://www.instagram.com/breno_50tn45/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/breno-s-39a58a142/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:breno0s1s6@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=beh-S4nt05&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beh-S4nt05&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=beh-S4nt05&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🚀 Projetos em Destaque
+
+> 🔧 **Substitua os links e descrições abaixo pelos seus projetos reais**
+
+<div align="center">
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [🤖 automacao-pcp](https://github.com/beh-S4nt05/automacao-pcp) | Automação de relatórios de PCP com leitura/escrita de Excel e dashboards | Python · Pandas · OpenPyXL · Power BI |
+| [🌐 portfolio-web](https://github.com/beh-S4nt05/portfolio-web) | Portfólio pessoal responsivo apresentando projetos e habilidades | HTML · CSS · JavaScript |
+| [📊 dashboard-industrial](https://github.com/beh-S4nt05/dashboard-industrial) | Dashboard de indicadores industriais com atualização automatizada | Power BI · VBA · SQL |
+| [🎲 rpg-engine](https://github.com/beh-S4nt05/rpg-engine) | Motor de RPG com arquitetura DDD/SDD e DTOs bem definidos | Python |
+
+</div>
+
+---
+
+## 📈 Atividade
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=beh-S4nt05&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b35&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🌱 Em evolução
+
+- 📐 Arquitetura de Software — DDD, SDD, padrões de projeto
+- 🐍 Python avançado para automação e análise de dados
+- 🌐 Freelancing em plataformas internacionais (Upwork)
+- 🏛️ Concursos Públicos de TI — Manaus / AM
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer"/>
+
+*"Automatize o repetível. Crie o que importa."*
+
 </div>
