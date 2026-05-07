@@ -85,14 +85,14 @@ class BrenoSantos:
 <div align="center">
 
 | Projeto | Descrição | Stack |
-
 |---|---|---|
 | [📃 lista-de-compras](https://github.com/beh-S4nt05/BuyerListWithPythonClasses) | Uma lista de Compras criada com conceitos de POO | Python |
-| [🧮 calculadora-simples](https://github.com/beh-S4nt05/Python_CLI_Calculator-TIC_ELDOURADO) | Calculadora via cli com conceitos de POO | Python |
-| [🤖 automacao-pcp] | Automação de relatórios de PCP com leitura/escrita de Excel e dashboards | Python · Pandas · OpenPyXL · Power BI |
+| [🧮 calculadora-simples](https://github.com/beh-S4nt05/Python_CLI_Calculator-TIC_ELDOURADO) | Calculadora via CLI com conceitos de POO | Python |
+| 🤖 automacao-pcp | Automação de relatórios de PCP com leitura/escrita de Excel e dashboards | Python · Pandas · OpenPyXL · Power BI |
 | [🌐 portfolio-web](https://github.com/beh-S4nt05/portfolio-web) | Portfólio pessoal responsivo apresentando projetos e habilidades | HTML · CSS · JavaScript |
 | [📊 dashboard-industrial](https://github.com/beh-S4nt05/dashboard-industrial) | Dashboard de indicadores industriais com atualização automatizada | Power BI · VBA · SQL |
 | [🎲 rpg-engine](https://github.com/beh-S4nt05/rpg-engine) | Motor de RPG com arquitetura DDD/SDD e DTOs bem definidos | Python |
+
 
 </div>
 
