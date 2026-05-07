@@ -62,20 +62,13 @@ class BrenoSantos:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
 </div>
 
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=beh-S4nt05&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beh-S4nt05&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
-
-</div>
 
 <div align="center">
 
@@ -87,13 +80,16 @@ class BrenoSantos:
 
 ## 🚀 Projetos em Destaque
 
-> 🔧 **Substitua os links e descrições abaixo pelos seus projetos reais**
+🔧 **Substitua os links e descrições abaixo pelos seus projetos reais**
 
 <div align="center">
 
 | Projeto | Descrição | Stack |
+
 |---|---|---|
-| [🤖 automacao-pcp](https://github.com/beh-S4nt05/automacao-pcp) | Automação de relatórios de PCP com leitura/escrita de Excel e dashboards | Python · Pandas · OpenPyXL · Power BI |
+| [📃 lista-de-compras](https://github.com/beh-S4nt05/BuyerListWithPythonClasses) | Uma lista de Compras criada com conceitos de POO | Python |
+| [🧮 calculadora-simples](https://github.com/beh-S4nt05/Python_CLI_Calculator-TIC_ELDOURADO) | Calculadora via cli com conceitos de POO | Python |
+| [🤖 automacao-pcp] | Automação de relatórios de PCP com leitura/escrita de Excel e dashboards | Python · Pandas · OpenPyXL · Power BI |
 | [🌐 portfolio-web](https://github.com/beh-S4nt05/portfolio-web) | Portfólio pessoal responsivo apresentando projetos e habilidades | HTML · CSS · JavaScript |
 | [📊 dashboard-industrial](https://github.com/beh-S4nt05/dashboard-industrial) | Dashboard de indicadores industriais com atualização automatizada | Power BI · VBA · SQL |
 | [🎲 rpg-engine](https://github.com/beh-S4nt05/rpg-engine) | Motor de RPG com arquitetura DDD/SDD e DTOs bem definidos | Python |
@@ -117,7 +113,7 @@ class BrenoSantos:
 - 📐 Arquitetura de Software — DDD, SDD, padrões de projeto
 - 🐍 Python avançado para automação e análise de dados
 - 🌐 Freelancing em plataformas internacionais (Upwork)
-- 🏛️ Concursos Públicos de TI — Manaus / AM
+<!-- - 🏛️ Concursos Públicos de TI — Manaus / AM -->
 
 ---
 
