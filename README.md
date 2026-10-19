@@ -22,14 +22,15 @@
 ```python
 class BrenoSantos:
     nome       = "Breno Santos"
+    empresa    = "Beh Soluções e Automações"
+    e-mail      = "behsolutionsandautomations@gmail.com"
     localizacao = "Manaus, AM 🌿"
-    formacao   = "Engenharia de Computação — FMM (4º semestre)"
+    formacao   = "Engenharia de Computação — FMM (6º semestre)"
     foco       = ["Automação de Processos", "Análise de Dados", "Desenvolvimento Web"]
-    stack      = ["Python", "VBA", "Power BI", "JavaScript", "HTML/CSS", "SQL"]
+    stack      = ["Python", "VBA", "Power BI", "JavaScript", "SQL", "PostgreSQL"]
     experiencia = [
         "PCP Intern @ Angstrom Electric — Python · Pandas · OpenPyXL · Power BI",
-        "Suporte de TI & Sistemas Industriais",
-        "Freelancer PJ — Soluções sob demanda",
+        "Suporte de TI & Sistemas Industriais"
     ]
     atualmente = "Automatizando tudo que pode ser automatizado 🚀"
 ```
