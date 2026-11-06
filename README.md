@@ -90,16 +90,6 @@ class BrenoSantos:
 
 ---
 
-## 📈 Atividade
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=beh-S4nt05&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b35&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## 🌱 Em evolução
 
 - 📐 Arquitetura de Software — DDD, SDD, padrões de projeto
