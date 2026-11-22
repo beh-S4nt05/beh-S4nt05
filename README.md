@@ -13,6 +13,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:breno0s1s6@gmail.com)
 ![Visitors](https://komarev.com/ghpvc/?username=beh-S4nt05&color=58a6ff&style=for-the-badge&label=VISITAS)
 
+[![Breno Silva dos Santos](https://devsunite.com/api/badge/cxScMUxgSehkaB30ZoiNz6AT3eV2)](https://devsunite.com/u/cxScMUxgSehkaB30ZoiNz6AT3eV2)
+
 </div>
 
 ---
