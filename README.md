@@ -1,110 +1,118 @@
 <div align="center">
-
-<!-- Banner animado -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Breno%20Santos&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Engenharia%20de%20Computação%20·%20Automação%20·%20Dev&descAlignY=58&descSize=18&descColor=8b949e"/>
-
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Estudante+de+Eng.+de+Computação+%7C+FMM;Automação+de+Processos+%26+Análise+de+Dados;Web+Development+%7C+Python+%7C+Power+BI;Freelancer+PJ+%7C+Manaus%2C+AM+🌿)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-s-39a58a142)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beh-S4nt05)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:breno0s1s6@gmail.com)
-![Visitors](https://komarev.com/ghpvc/?username=beh-S4nt05&color=58a6ff&style=for-the-badge&label=VISITAS)
-
-[![Breno Silva dos Santos](https://devsunite.com/api/badge/cxScMUxgSehkaB30ZoiNz6AT3eV2)](https://devsunite.com/u/cxScMUxgSehkaB30ZoiNz6AT3eV2)
-
+  <h1>Breno Silva dos Santos</h1>
+  <p><strong>Engenharia de Computação | Automação de Processos | Desenvolvimento de Software</strong></p>
+  <p>Manaus, Amazonas · Brasil · Beh Soluções e Automações</p>
+  <p>
+    <a href="https://www.linkedin.com/in/breno-s-39a58a142">LinkedIn</a> ·
+    <a href="https://devsunite.com/u/cxScMUxgSehkaB30ZoiNz6AT3eV2">DevsUnite</a> ·
+    <a href="mailto:behsolutionsandautomations@gmail.com">Contato profissional</a>
+  </p>
+  <img src="https://img.shields.io/badge/Automação-58A6FF?style=flat-square&amp;labelColor=161B22" alt="Automação" />
+  <img src="https://img.shields.io/badge/Engenharia-58A6FF?style=flat-square&amp;labelColor=161B22" alt="Engenharia" />
+  <img src="https://img.shields.io/badge/Software-58A6FF?style=flat-square&amp;labelColor=161B22" alt="Software" />
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
-```python
-class BrenoSantos:
-    nome       = "Breno Santos"
-    empresa    = "Beh Soluções e Automações"
-    email      = "behsolutionsandautomations@gmail.com"
-    localizacao = "Manaus, AM 🌿"
-    formacao   = "Engenharia de Computação — Faculdate Matias Machline"
-    foco       = ["Automação de Processos", "Análise de Dados", "Desenvolvimento FullStack"]
-    stack      = ["Python", "VBA", "Power BI", "JavaScript", "TypeScript", "SQL", "PostgreSQL"]
-    experiencia = [
-        "PCP Intern @ Angstrom Electric — Python · Pandas · OpenPyXL · Power BI",
-    ]
-    atualmente = "Automatizando tudo que pode ser automatizado 🚀"
-```
+Estudante de Engenharia de Computação na **Faculdade Matias Machline (FMM)** e profissional freelancer (PJ), com foco no desenvolvimento de soluções que integram software, dados e automação.
+
+Minha experiência inclui atuação em Planejamento e Controle da Produção (PCP) na Angstrom Electric, utilizando Python, Pandas, OpenPyXL e Power BI para trabalhar com dados e processos industriais.
+
+**Áreas de atuação e interesse**
+
+- Automação de processos industriais e administrativos
+- Desenvolvimento de aplicações web, mobile e APIs
+- Análise de dados, indicadores e Business Intelligence
+- Inteligência artificial local e integração de sistemas
+- Arquitetura de software e sistemas embarcados
+
+## Tecnologias
+
+### Linguagens
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
+![VBA](https://img.shields.io/badge/VBA-217346?style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square)
+
+### Desenvolvimento e bancos de dados
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+### Dados, automação e inteligência artificial
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-222222?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+### Infraestrutura e ferramentas
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square)
+
+## Projetos em destaque
+
+### [Pluto Agente](https://github.com/beh-S4nt05/pluto-agente)
+
+Agente pessoal local-first voltado à execução de tarefas, integração de ferramentas, modelos de linguagem e automação de fluxos de trabalho.
+
+**Tecnologias:** Python · Ollama · Flask  
+**Estágio:** desenvolvimento e validação.
+
+### [Smart Parking](https://github.com/beh-S4nt05/smart-parking-pex)
+
+MVP de monitoramento de vagas de estacionamento, com mapa, painel administrativo e simulação de sensores por QR Code.
+
+**Tecnologias:** FastAPI · React Native · TypeScript · PostgreSQL · Docker  
+**Estágio:** MVP em evolução.
+
+### [Price Finder Radar](https://github.com/beh-S4nt05/price-finder-radar)
+
+Aplicação de pesquisa e comparação de preços, análise de ofertas e apoio à tomada de decisão em compras e revendas.
+
+**Tecnologias:** Python · React · TypeScript · Web Scraping  
+**Estágio:** desenvolvimento e aprimoramento da validação de ofertas.
+
+### [Projeto RPG](https://github.com/beh-S4nt05/projeto_rpg)
+
+Aplicação de RPG com autenticação, cadastro e sistema de atributos, com combate e missões previstos no roadmap.
+
+**Tecnologias:** NestJS · React Native · TypeScript · PostgreSQL · Prisma  
+**Estágio:** desenvolvimento incremental.
+
+[Ver todos os repositórios →](https://github.com/beh-S4nt05?tab=repositories)
+
+## Desenvolvimento contínuo
+
+- Arquitetura de software: DDD, SDD e padrões de projeto
+- Engenharia de dados e automação com Python
+- Agentes inteligentes e integrações local-first
+- Automação industrial e sistemas embarcados
+
+## Atividade no GitHub
+
+Consulte os [repositórios](https://github.com/beh-S4nt05?tab=repositories) e o [histórico de contribuições](https://github.com/beh-S4nt05) diretamente no GitHub.
 
 ---
-
-## 🛠️ Tech Stack
 
 <div align="center">
-
-**Linguagens**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Dados & Automação**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-**Ferramentas**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=beh-S4nt05&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🚀 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [🤖 Betterme Agent](https://github.com/beh-S4nt05/betterme_agent) | Assistente pessoal local-first com modelos de linguagem, interface web e automações. | Python · Ollama · n8n |
-| [🅿️ Smart Parking](https://github.com/beh-S4nt05/smart-parking-pex) | MVP para monitoramento de vagas, com mapa, painel administrativo e simulador de sensores por QR Code. | Python · FastAPI · React Native · TypeScript · PostgreSQL · Docker |
-| [💰 Price Finder Radar](https://github.com/beh-S4nt05/price-finder-radar) | Aplicação para comparação de preços, análise de ofertas e simulação de compras para revenda. | Python · React · TypeScript · Web Scraping |
-| [🎲 Projeto RPG](https://github.com/beh-S4nt05/projeto_rpg) | RPG em evolução com cadastro, autenticação e sistema de atributos; combate e missões estão no roadmap. | NestJS · React Native · TypeScript · PostgreSQL · Prisma |
-
----
-
-## 🌱 Em evolução
-
-- 📐 Arquitetura de Software — DDD, SDD, padrões de projeto
-- 🐍 Python avançado para automação e análise de dados
-- 🌐 Freelancing em plataformas internacionais (Upwork)
-- 🏛️ Concursos Públicos de TI — Manaus / AM
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer"/>
-
-*"Automatize o repetível. Crie o que importa."*
-
+  <p><em>Automatize o repetível. Crie o que importa.</em></p>
+  <p><a href="mailto:behsolutionsandautomations@gmail.com">behsolutionsandautomations@gmail.com</a></p>
 </div>
